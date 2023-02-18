@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
+
+
+
+
+.form{
+    padding: 50px;
+    color:white;
+}
+
+.warning{
+    border: solid red 1.5px; 
+    border-radius: 5%;
+
+}
+.warning:focus{
+    outline: none;
+}
+
+.cool{
+    border: solid green 1px;
+}
+
+.alert{
+    font-size: 13px;
+    color: red;
+    font-family: 'Julius Sans One';
+}

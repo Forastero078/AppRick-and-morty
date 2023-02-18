@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
+
+
+.Nav{
+    width:auto;
+    height: 200px;
+    background-image: url('https://i.redd.it/o6cwlzg3exk41.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: 20%;
+    background-position-y: -70%;
+    border-radius: 10px;
+   border: solid white 1px;
+   padding: 10px;
+   opacity: 50;
+}
+
+#img{
+    width: 140px;
+    border-radius: 25px;
+    border: white solid;
+}
+
+.navButtonsHome{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(0, 81, 255);
+    color: white;
+    border:solid white 1px;
+    border-radius: 5%;
+    font-family: 'Julius Sans One';
+}
+
+.navButtonsHome:hover{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(251, 252, 255);
+    color: rgb(0, 0, 0);
+    border:solid rgb(0, 0, 0) 1px;
+    border-radius: 5%;
+    font-family: 'Julius Sans One';
+}
+.navButtonsFav{
+    width: 100px;
+    height: 25px;
+    background-color: rgb(0, 81, 255);
+    color: white;
+    border:solid white 1px;
+    border-radius: 5%;
+    font-family: 'Julius Sans One';
+}
+
+.navButtonsFav:hover{
+    width: 100px;
+    height: 25px;
+    background-color: rgb(251, 252, 255);
+    color: rgb(0, 0, 0);
+    border:solid rgb(0, 0, 0) 1px;
+    border-radius: 5%;
+    font-family: 'Julius Sans One';
+}
+.navButtonsAbout{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(0, 81, 255);
+    color: white;
+    border:solid white 1px;
+    border-radius: 5%;
+    font-family: 'Julius Sans One';
+}
+
+.navButtonsAbout:hover{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(251, 252, 255);
+    color: rgb(0, 0, 0);
+    border:solid rgb(0, 0, 0) 1px;
+    border-radius: 5%;
+    font-family: 'Julius Sans One';
+}
+.navButtonsLog{
+    width: 100px;
+    height: 25px;
+    background-color: rgb(255,0,0);
+    color: white;
+    border:solid white 1px;
+    border-radius: 5%;
+    font-family: 'Julius Sans One';
+    margin-left: 780px;
+}
+
+.navButtonsLog:hover{
+    width: 100px;
+    height: 25px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border:solid rgb(0, 0, 0) 1px;
+    border-radius: 5%;
+    font-family: 'Julius Sans One';
+}
+
+.buttons{
+    margin-right: 1000px;
+    margin-top: -80px;
+    display: flex;
+}
+
+.search{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    
+
+}

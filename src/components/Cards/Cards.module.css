@@ -1,0 +1,7 @@
+.Cards{
+    display: flex;
+    padding: 5px;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+}

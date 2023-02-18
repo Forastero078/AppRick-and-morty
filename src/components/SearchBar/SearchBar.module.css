@@ -1,0 +1,57 @@
+.search{
+    width: 100px;
+    height: 25px;
+    background-color: rgb(0, 81, 255);
+    color: white;
+    border:solid white 1px;
+    border-radius: 5%;
+}
+
+.search:hover{
+    width: 100px;
+    height: 25px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border:solid rgb(0, 0, 0) 1px;
+    border-radius: 5%;
+}
+.searchR{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(0, 81, 255);
+    color: white;
+    border:solid white 1px;
+    border-radius: 5%;
+}
+
+.searchR:hover{
+    width: 70px;
+    height: 25px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border:solid rgb(0, 0, 0) 1px;
+    border-radius: 5%;
+}
+
+.searchBar{
+    width: 337px;
+    
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.inpuT{
+    border: 0px;
+
+}
+
+
+.inpuT:focus{
+    outline: none;
+}
+
+.inpuT:active{
+    border:0px;
+}

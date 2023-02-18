@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
+
+
+
+
+.divCard {
+    
+    width: fit-content;
+    /* background-image: url('https://png.pngtree.com/background/20210711/original/pngtree-dark-vector-abstract-background-picture-image_1159556.jpg'); */
+    background-image: url('https://i.redd.it/o6cwlzg3exk41.png');
+    padding: 0px;
+    border-radius: 5px;
+    text-align: center;
+    border:solid rgb(79, 81, 118) 1px;
+    margin:5px 50px;
+    display: inline-grid;
+
+
+}
+
+.close {
+    
+    text-align: right;
+    background-color: rgb(243, 0, 0);
+    color: white;
+    border: solid #b3aeae 0.5px;
+    margin-left: 198px;
+}
+
+.close:hover{
+    text-align: right;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: solid #000000 0.5px;
+    margin-left: 197px;
+}
+
+.name {
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    border: solid gray 2px;
+    border-radius: 5px;
+    color: black;
+    padding: 3px;
+    font-family: 'Julius Sans One';
+    font-weight: 400;
+    margin-top: -0px;
+}
+
+.speciesAndGender{
+    background-color: rgb(255, 255, 255);
+    border: solid rgb(89, 89, 89) 2px;
+    border-radius: 5px;
+    color: black;
+    padding: 10px  25px;
+    width: 165px;
+    height:20px;
+    justify-content: space-between;
+    font-size: 15px;
+    font-family: 'Julius Sans One';
+    font-weight: 400;
+
+}
+
+.image{
+    width: 220px;
+}
+
+.Fav{
+    width: 0px;
+    height: 0px;
+    border: 0px;
+    visibility: none;
+
+
+}

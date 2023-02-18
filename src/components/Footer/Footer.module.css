@@ -1,0 +1,27 @@
+.footer{
+    background-image: url('https://i.redd.it/o6cwlzg3exk41.png');
+    background-position-x: 30%;
+    background-position-y: 370%;
+    background-attachment: fixed;
+    border-radius: 10px;
+    border: solid white 1px;
+    padding: 10px;
+    opacity: 50;
+    width: auto;
+    height: 100px;
+    color:white;
+ }
+
+ .text{
+    background-color: rgba(0,0,0,0.5);
+    width: auto;
+    height: 25px;
+    color:white;
+
+ }
+
+
+ .logoH{
+    width: 30px;
+    height: 30px;
+ }
